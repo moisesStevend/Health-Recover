@@ -162,6 +162,8 @@
 <circle x="6" y="75.35" radius="0.282840625" width="1.016" layer="20"/>
 <circle x="0.4" y="77" radius="0.282840625" width="1.016" layer="20"/>
 <circle x="4.5" y="68.6" radius="0.282840625" width="1.016" layer="20"/>
+<dimension x1="-1.2" y1="37.2" x2="-1.2" y2="81.2" x3="-12.45" y3="59.2" textsize="1.778" layer="1"/>
+<dimension x1="-1.2" y1="81" x2="53.6" y2="81" x3="26.2" y3="89.6" textsize="1.778" layer="1"/>
 </plain>
 <libraries>
 <library name="rcl" urn="urn:adsk.eagle:library:334">
