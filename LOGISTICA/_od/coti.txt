@@ -1,0 +1,18 @@
+5 modulo cargador de bateria lipo 
+5 botones de 4 patitas
+12 espadines hembra
+5 diodos 1n4004
+40 leds verdes  3mm
+10 leds rojos 3mm
+5 switch-interruptor negro
+5 bateria 1000mhA
+50 resistencia 33kohm
+10 resistencias 1.8kohm o 2k
+40 resistencias de 330ohm
+5 mpu9250
+20 cable arduino Hembra-Hembra
+1 cable cinta doble
+
+
+
+
